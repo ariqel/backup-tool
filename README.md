@@ -31,6 +31,7 @@ This project is focused on correctness, clean code structure, and predictable be
 
 ## 📁 Project Structure
 
+```bash
 backup-tool/
 ├── backups/     (backups saved here, do not delete)
 │ 
@@ -54,6 +55,7 @@ backup-tool/
 │
 ├── .env
 └── package.json
+```
 ---
 
 ## ⚙️ Requirements
