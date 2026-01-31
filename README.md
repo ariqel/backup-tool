@@ -73,7 +73,7 @@ git clone https://github.com/ariqel/backup-tool.git
 cd backup-tool  
 npm install  
 ```
-Create the .env file with your data:
+Change the data in the .env with your data:
 ```
 DISCORD_TOKEN=BOT_TOKEN_HERE
 CLIENT_ID=APPLICATION_ID_HERE
