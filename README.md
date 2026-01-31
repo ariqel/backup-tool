@@ -1,3 +1,7 @@
+![standard](https://github.com/user-attachments/assets/2be85dd7-4540-4105-80a6-db2976948eed)
+
+
+
 # Discord Server Backup Tool
 
 A Discord.js v15 bot that can fully back up and restore a Discord server, including structure, permissions, and emojis.
