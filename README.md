@@ -98,7 +98,7 @@ This will:
 Creates a full backup of the server and saves it to `backup-tool/backups`
 
 /restore  
-Restores the server from the backup file
+Restores the server from the backup file. Usage: /restore "entire file name including extension"
 
 /wipe  
 Deletes all channels, categories, and roles (except @everyone)
