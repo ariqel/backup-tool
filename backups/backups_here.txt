@@ -1,1 +1,2 @@
-Backups will be automatically generated in this folder after using the /backup command.
+Backups will be automatically generated in this folder after using the /backup command. Backups are saved as .json and can be manually changed.
+
