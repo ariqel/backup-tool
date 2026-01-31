@@ -69,8 +69,8 @@ backup-tool/
 
 ## 📦 Installation
 
-git clone https://github.com/yourusername/discord-server-backup  
-cd discord-server-backup  
+git clone https://github.com/ariqel/backup-tool.git 
+cd backup-tool  
 npm install  
 
 Update the .env file with your data:
