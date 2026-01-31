@@ -53,7 +53,7 @@ backup-tool/
 │ ├── clearCommands.js
 │ └── index.js
 │
-├── .env
+├── .env   (You need to create this yourself and enter the data)
 └── package.json
 ```
 ---
