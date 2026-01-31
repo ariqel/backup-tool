@@ -68,17 +68,17 @@ backup-tool/
 ---
 
 ## 📦 Installation
-
+```
 git clone https://github.com/ariqel/backup-tool.git 
 cd backup-tool  
 npm install  
-
+```
 Update the .env file with your data:
-
+```
 DISCORD_TOKEN=BOT_TOKEN_HERE
 CLIENT_ID=APPLICATION_ID_HERE
 GUILD_ID=SERVER_ID_HERE
-
+```
 ---
 
 ## ▶️ Running the Bot
